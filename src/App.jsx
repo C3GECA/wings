@@ -5,7 +5,7 @@ import Timeline from './components/Timeline/timeline'
 import Guest1 from './components/Animations/JetAnimation'
 import CardHolder from './components/Guest/CardHolder'
 
-import {LeftSideImage} from './components/LeftSideImage'
+import {LeftSideImage} from './components/eventsCards/LeftSideImage'
 import treasurHunt from './images/treasureHunt.png'
 import drone from './images/drone.png'
 import roboRace from './images/roboRace.png'
@@ -14,7 +14,7 @@ import otc from './images/otc.png'
 import hakathon from './images/hakathon.png'
 import bgmi from './images/bgmi.png'
 import valorant from './images/valorant.png'
-import { RighjtSideImage } from './components/RighjtSideImage'
+import { RighjtSideImage } from './components/eventsCards/RighjtSideImage'
 
 function App() {
 
